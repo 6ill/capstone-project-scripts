@@ -37,9 +37,9 @@ shellingham==1.5.4
 six==1.17.0
 sympy==1.14.0
 tokenizers==0.22.2
-torch==2.7.1+cu118
-torchaudio==2.7.1+cu118
-torchvision==0.22.1+cu118
+torch==2.7.1
+torchaudio==2.7.1
+torchvision==0.22.1
 tqdm==4.67.2
 typer-slim==0.21.1
 typing_extensions==4.15.0
